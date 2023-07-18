@@ -1,0 +1,4 @@
+requests
+pinyin
+hanzidentifier
+Pillow
