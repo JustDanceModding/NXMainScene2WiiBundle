@@ -9,3 +9,6 @@
 
 # Requirements
 The files that need to go in the **bin** folder can be found in **Releases**.
+
+# TODO
+- Refactor the code. **NOTE**: This code is **Old Code**, i have my own new automodder for OldGen, which i wont share.
